@@ -1,0 +1,21 @@
+:root{
+--light-blue: #dcf4f8;
+--blue-grediant: linear-gradient(to right, #d178fd, #6be4ff);
+--grey-border: rgb(192, 192, 192);
+--background-color: #e9e7df;
+--white-color : white;
+--grey: grey;
+--blue: rgb(53, 53, 243);
+--black:black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: var(--background-color);
+        font-family: 'Poppins', sans-serif;
+        color:var(--black)
+}
